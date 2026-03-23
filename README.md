@@ -46,11 +46,10 @@ php artisan view:clear
 php artisan livewire:publish --assets
 ```
 
-8. Create mp0613_hms database
+8. Create database
 
-```bash
 create database mp0613_livewire
-```
+
 
 9. Run migrations and seed the database
 
